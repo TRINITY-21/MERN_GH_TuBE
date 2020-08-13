@@ -1,4 +1,4 @@
-# MERN_G-TuBE
+# MERN_GH-TuBE
 MERN app used to upload and download videos as well as comments system with subscribe and likd/dislike similar to YOUTUBE
 # Setup
 1. make dev.js file inside config folder
