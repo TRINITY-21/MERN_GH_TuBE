@@ -1,5 +1,5 @@
 # MERN_GH-TuBE
-MERN app used to upload and download videos as well as comments system with subscribe and likd/dislike similar to YOUTUBE
+MERN app used to upload and download videos as well as comments system with subscribe and like/dislike similar to YOUTUBE
 # Setup
 1. make dev.js file inside config folder
 2. put mongoDB info into dev.js file
