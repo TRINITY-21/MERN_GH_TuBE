@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/compatible": "^1.0.5",
     "@ant-design/icons": "^4.2.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -49,7 +50,5 @@
     ]
   },
   "proxy": "http://localhost:5000/",
-  "devDependencies": {
-    "@ant-design/compatible": "^1.0.5"
-  }
+  "devDependencies": {}
 }
