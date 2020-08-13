@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Typography, Button, Form, message, Input } from 'antd';
+import { Typography, Button, Form, Input } from 'antd';
 import {Icon} from '@ant-design/compatible'
 import Dropzone from 'react-dropzone';
 import axios from 'axios';

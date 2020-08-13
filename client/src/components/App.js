@@ -9,7 +9,6 @@ import NavBar from "./views/NavBar/NavBar";
 import Footer from "./views/Footer/Footer"
 import UploadVideoPage from './views/UploadVideoPage/UploadVideoPage'
 import DetailVideoPage from './views/DetailVideoPage/DetailVideoPage'
-import SideVideo from './views/DetailVideoPage/Sections/SideVideo'
 import SubscriptionPage from './views/SubscriptionPage/SubscriptionPage'
 //null   Anyone Can go inside
 //true   only logged in user can go inside
